@@ -15,7 +15,7 @@ ul { list-style:none; padding:0; margin:0;}
 /* Start Header */
 
 .header {
-  background: url('../images/header.jpg') no-repeat top center;
+  background: url('header.jpg') no-repeat top center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
